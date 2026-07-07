@@ -274,4 +274,9 @@ background-position: 0 -70px;
     height: 43px;
 }
 
+.ds4 .button{
+    background:url(ps4-assets/face.svg) !important;
+    background-repeat:no-repeat;
+}
+
 /*END PS4 White Controller Styling*/
