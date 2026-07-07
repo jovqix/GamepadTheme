@@ -284,11 +284,11 @@ background-position: 0 -70px;
     background-size:224px 112px;
 }
 
-.ds4 .a{
+.ds4 .b{
     background-position:-56px 0;
 }
 
-.ds4 .b{
+.ds4 .a{
     background-position:0 0;
 }
 
@@ -300,11 +300,11 @@ background-position: 0 -70px;
     background-position:-168px 0;
 }
 
-.ds4 .button.pressed.a{
+.ds4 .button.pressed.b{
     background-position:-56px -56px;
 }
 
-.ds4 .button.pressed.b{
+.ds4 .button.pressed.a{
     background-position:0 -56px;
 }
 
