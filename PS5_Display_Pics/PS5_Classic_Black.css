@@ -149,8 +149,15 @@ background-position: 0 -70px;
     position: absolute;
     width: 170px;
     height: 171px;
-    top: 200px;
-    left: 762px;
+    top: 159px;
+    left: 567px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(ps4-assets/face.svg);
 }
 
 .ds4 .button.pressed {
@@ -160,25 +167,24 @@ background-position: 0 -70px;
 
 .ds4 .a {
     background-position: 0 0;
-    bottom: 0px;
+    bottom: 0;
     left: 58px;
 }
 
 .ds4 .b {
     background-position: -57px 0;
-    top: 57px;
-    right: -3px;
+    top: 58px;
+    right: 0px;
 }
 
 .ds4 .x {
     background-position: -113px 0;
-    top: 57px;
+    top: 58px;
 }
 
 .ds4 .y {
     background-position: 55px 0;
     left: 58px;
-    bottom: 119px;
 }
 
 .ds4 .sticks {
