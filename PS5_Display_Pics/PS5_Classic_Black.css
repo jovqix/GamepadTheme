@@ -276,6 +276,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .button{
+    position:absolute;
     width:55px;
     height:55px;
     background-image:url(ps4-assets/face.svg);
