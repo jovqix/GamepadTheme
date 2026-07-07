@@ -286,7 +286,7 @@ background-position: 0 -70px;
     background-position:0 0;
 }
 
-.ds4 .y{
+.ds4 .b{
     background-position:-56px 0;
 }
 
@@ -294,7 +294,7 @@ background-position: 0 -70px;
     background-position:-112px 0;
 }
 
-.ds4 .b{
+.ds4 .y{
     background-position:-168px 0;
 }
 
@@ -302,7 +302,7 @@ background-position: 0 -70px;
     background-position:0 -56px;
 }
 
-.ds4 .button.pressed.y{
+.ds4 .button.pressed.b{
     background-position:-56px -56px;
 }
 
@@ -310,7 +310,7 @@ background-position: 0 -70px;
     background-position:-112px -56px;
 }
 
-.ds4 .button.pressed.b{
+.ds4 .button.pressed.y{
     background-position:-168px -56px;
 }
 
