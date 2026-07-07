@@ -275,44 +275,46 @@ background-position: 0 -70px;
 }
 
 .ds4 .button{
-    position:absolute;
-    width:55px;
-    height:55px;
+    width:56px;
+    height:56px;
     background-image:url(ps4-assets/face.svg);
     background-repeat:no-repeat;
     background-size:224px 112.4px;
 }
 
-.ds4 .a{
-    background-position:0 0;
-}
-
-.ds4 .y{
+/* X */
+.ds4 .x{
     background-position:-56px 0;
 }
 
-.ds4 .x{
+/* Kare */
+.ds4 .a{
     background-position:-112px 0;
 }
 
-.ds4 .b{
+/* Üçgen */
+.ds4 .y{
     background-position:-168px 0;
 }
 
+/* Yuvarlak */
+.ds4 .b{
+    background-position:0 0;
+}
+
 .ds4 .button.pressed.a{
-    background-position:0 -56px;
+    background-position:0 -56.2px;
 }
 
 .ds4 .button.pressed.y{
-    background-position:-56px -56px;
+    background-position:-56px -56.2px;
 }
 
 .ds4 .button.pressed.x{
-    background-position:-112px -56px;
+    background-position:-112px -56.2px;
 }
 
 .ds4 .button.pressed.b{
-    background-position:-168px -56px;
+    background-position:-168px -56.2px;
 }
-
 /*END PS4 White Controller Styling*/
