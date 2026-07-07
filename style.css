@@ -1216,7 +1216,9 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svg);
+    background-image: url(ps4-assets/face.svg);
+    background-repeat: no-repeat;
+    background-size: 224px 112.4px;
 }
 
 .ds4 .button.pressed {
