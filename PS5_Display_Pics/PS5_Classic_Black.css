@@ -1,7 +1,4 @@
 /*BEGIN PS4 Controller Styling*/
-.controller.ds4{
-    transform:scale(0.5) !important;
-}
 .controller.ds4 {
     background: url(Black_SkinNo_Buttons.png);
     height: 700px;
