@@ -274,4 +274,45 @@ background-position: 0 -70px;
     height: 43px;
 }
 
+.ds4 .button{
+    position:absolute;
+    width:55px;
+    height:55px;
+    background-image:url(../ps4-assets/face.svg);
+    background-repeat:no-repeat;
+    background-size:224px 112.4px;
+}
+
+.ds4 .a{
+    background-position:0 0;
+}
+
+.ds4 .y{
+    background-position:-56px 0;
+}
+
+.ds4 .x{
+    background-position:-112px 0;
+}
+
+.ds4 .b{
+    background-position:-168px 0;
+}
+
+.ds4 .button.pressed.a{
+    background-position:0 -56px;
+}
+
+.ds4 .button.pressed.y{
+    background-position:-56px -56px;
+}
+
+.ds4 .button.pressed.x{
+    background-position:-112px -56px;
+}
+
+.ds4 .button.pressed.b{
+    background-position:-168px -56px;
+}
+
 /*END PS4 White Controller Styling*/
