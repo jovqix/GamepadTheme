@@ -225,47 +225,46 @@ background-position: 0 -70px;
     position:absolute;
     background-image:url(ps4-assets/dpad.svg);
     background-repeat:no-repeat;
-    background-size:178.53px 103.93px;
+    background-size:208px 104px;
 }
 
-.ds4 .face.up,
-.ds4 .face.down{
-    width:44.63px;
-    height:51.96px;
+.ds4 .face.up, .ds4 .face.down {
+    width: 36px;
+    height: 52px;
 }
 
-.ds4 .face.left,
-.ds4 .face.right{
-    width:44.63px;
-    height:51.96px;
+.ds4 .face.left, .ds4 .face.right {
+    width: 52px;
+    height: 36px;
 }
 
-.ds4 .face.down{
-    left:44px;
-    bottom:0;
-    background-position:0 0;
+.ds4 .face.up {
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
 }
 
-.ds4 .face.up{
-    left:44px;
-    top:0;
-    background-position:-44.63px 0;
+.ds4 .face.down {
+    left: 44px;
+    bottom: 0;
+    background-position: 0px 0;
 }
 
-.ds4 .face.right{
-    top:37px;
-    right:0;
-    background-position:-89.26px 0;
+.ds4 .face.left {
+    top: 45px;
+    left: 0;
+    background-position: 104px 0;
 }
 
-.ds4 .face.left{
-    top:37px;
-    left:0;
-    background-position:-133.89px 0;
+.ds4 .face.right {
+    top: 45px;
+    right: 0px;
+    background-position: 52px 0;
 }
 
-.ds4 .face.pressed{
-    background-position-y:-51.96px;
+.ds4 .face.pressed {
+    /* margin-top: 5px; */
+    background-position-y: 52px;
 }
 
 .ds4.half {
