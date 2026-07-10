@@ -231,14 +231,6 @@ background-position: 0 -70px;
     height: 36px;
 }
 
-.ds4 .face.up,
-.ds4 .face.down,
-.ds4 .face.left,
-.ds4 .face.right {
-    background-image: url(ps4-assets/dpad.svg);
-    background-repeat: no-repeat;
-}
-
 .ds4 .face.up {
     left: 44px;
     top: 0;
