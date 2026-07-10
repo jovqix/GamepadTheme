@@ -222,10 +222,8 @@ background-position: 0 -70px;
 }
 
 .ds4 .dpad .face{
-    position:absolute;
     background-image:url(ps4-assets/dpad.svg);
     background-repeat:no-repeat;
-    background-size:208px 104px;
 }
 
 .ds4 .face.up, .ds4 .face.down {
