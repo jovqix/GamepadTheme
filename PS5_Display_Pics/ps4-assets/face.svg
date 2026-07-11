@@ -10,19 +10,19 @@
       }
 
       .cls-3 {
-        fill: #FF5FA2;
+        fill: #FF51a1aFA2;
       }
 
       .cls-4 {
-        fill: #FF5FA2;
+        fill: #1a1a1a;
       }
 
       .cls-5 {
-        fill: #FF5FA2;
+        fill: #1a1a1a;
       }
 
       .cls-6 {
-        fill: #FF5FA2;
+        fill: #1a1a1a;
       }
 
       .cls-7 {
@@ -34,19 +34,19 @@
       }
 
       .cls-9 {
-        fill: #FF5FA2;
+        fill: #ffffff;
       }
 
       .cls-10 {
-        fill: #FF5FA2;
+        fill: #ffffff;
       }
 
       .cls-11 {
-        fill: #FF5FA2;
+        fill: #ffffff;
       }
 
       .cls-12 {
-        fill: #FF5FA2;
+        fill: #ffffff;
       }
     </style>
   </defs>
